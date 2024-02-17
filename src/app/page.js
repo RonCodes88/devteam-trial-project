@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Header from '@/components/Header'
-import CountryList from '@/components/backend/CountryList'
+import CountryList from '@/components/CountryList'
+
 
 export default function Home() {
   return (
